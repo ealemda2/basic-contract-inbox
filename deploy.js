@@ -3,7 +3,7 @@ const Web3 = require('web3')
 const { interface, bytecode } = require('./compile')
 
 const provider = new HDWalletProvider(
-  'track drink champion casino above hamster innocent donkey aerobic close fluid pond',
+  'track drink champion casino above hamster innocent donkey aerobic close fluid pond', // account with some eth on Rinkeby
   'https://rinkeby.infura.io/v3/e9119dac50e24e0ebe653e1c4694e824' // 3rd party node in ethereum network
 )
 
