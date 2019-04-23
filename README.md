@@ -1,4 +1,4 @@
-# basic-contract-inbox
+# Basic Smart Contract - Inbox
 
 Minimum setup necessary to implement a simple smart contract with Solidity and deploy it on the Rinkeby Test Network.
  
